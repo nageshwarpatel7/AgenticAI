@@ -64,3 +64,4 @@ Windows
 Thumbs.db
 
 Langchain/Vector Database/chroma_db/
+Langchain/ollama/.streamlit/secrets.toml
