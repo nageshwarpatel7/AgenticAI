@@ -23,3 +23,8 @@ langchain_google_genai
 langchain_perplexity
 streamlit
 langchain-ollama
+langchain_groq
+fastapi 
+uvicorn
+langserve
+sse_starlette
