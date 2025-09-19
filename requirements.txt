@@ -23,7 +23,7 @@ langchain_google_genai
 langchain_perplexity
 streamlit
 langchain-ollama
-langchain_groq
+langchain-groq
 fastapi 
 uvicorn
 langserve
